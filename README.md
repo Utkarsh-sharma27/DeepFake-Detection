@@ -1,1 +1,2 @@
-# DeepFake-Detection
+Today's technology allows us to do the incredible things such as creation of fake videos or images of real people, deepfakes. Deepfakes are going viral and creating a lot of credibility and security concerns. That is why deepfake detection is a fast growing area of research .
+In this analysis I will try to look closely at the videos from the sample dataset on Kaggle and find traits which can help us distinguish the fakes from the real videos.
